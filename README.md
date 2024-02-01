@@ -5,7 +5,7 @@
 -   👯 I’m looking to collaborate on 3D-modeling Web
 -   🤔 I’m looking for help with Placements in FAANG
 -   💬 Ask me about web
--   📫 How to reach me : [sachusachin983@gmail.com](Mail😉)
+-   📫 How to reach me : [Mail😉](sachusachin983@gmail.com)
 
 
 ### I code in
