@@ -1,11 +1,11 @@
 # HI There I'm Sachin 👋
 ---
 ### Agile QA Engineer @ TCS
--   🌱 I’m currently learning DSA
--   👯 I’m looking to collaborate on ML/AI
+-   🌱 I’m currently learning API's
+-   👯 I’m looking to collaborate on 3D-modeling Web
 -   🤔 I’m looking for help with Placements in FAANG
--   💬 Ask me about Web
--   📫 How to reach me :  
+-   💬 Ask me about web
+-   📫 How to reach me : [sachusachin983@gmail.com](Mail😉)
 
 
 ### I code in
