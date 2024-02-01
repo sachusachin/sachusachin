@@ -6,8 +6,8 @@
 -   🤔 I’m looking for help with Placements in FAANG
 -   💬 Ask me about web
 -   📫 How to reach me :
--   [![Mail😉](https://img.icons8.com/fluency/48/circled-envelope.png)](mailto:sachusachin983@gmail.com)
-
+   [![Mail😉](https://img.icons8.com/fluency/48/circled-envelope.png)](mailto:sachusachin983@gmail.com)
+   [![Mail😉](https://img.icons8.com/fluency/48/linkedin.png)](mailto:sachusachin983@gmail.com)
 
 ### I code in
 
